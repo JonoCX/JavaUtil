@@ -8,5 +8,7 @@
     <artifactId>java-util</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>Java Utility classes</name>
+
 
 </project>
